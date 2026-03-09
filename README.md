@@ -22,6 +22,18 @@ This lab simulates a real-world organizational database environment where differ
 
 ---
 
+## ⚙️ Technologies Used
+
+- MySQL 8.0
+- SQL
+- MySQL Security & Access Control
+- Role-Based Access Control (RBAC)
+- Password Policy Enforcement
+- Linux Environment
+- Git & GitHub
+
+---
+
 ## Environment
 
 MySQL Version: 8.0+
