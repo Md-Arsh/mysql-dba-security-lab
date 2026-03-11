@@ -69,13 +69,13 @@ README.md
 
 ## Databases Used
 
-dev_db
-analytics_db
-DemoDatabase
-DemoDatabaseTwo
-sales_db
-test_db
-finance_db
+dev_db,
+analytics_db,
+DemoDatabase,
+DemoDatabaseTwo,
+sales_db,
+test_db,
+finance_db,
 
 Example command
 
